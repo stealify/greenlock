@@ -2,6 +2,8 @@ letsencrypt.work
 letsencrypt.logs
 letsencrypt.config
 
+renovate.json
+
 # Logs
 logs
 *.log
