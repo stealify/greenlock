@@ -35,7 +35,7 @@
   },
   "optionalDependencies": {},
   "dependencies": {
-    "asn1js": "^1.2.12",
+    "asn1js": "^2.0.10",
     "bluebird": "^3.0.6",
     "certpem": "^1.0.0",
     "homedir": "^0.6.0",
