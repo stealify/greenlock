@@ -31,7 +31,7 @@
   },
   "homepage": "https://git.daplie.com/Daplie/node-greenlock#readme",
   "devDependencies": {
-    "request": "2.82.0"
+    "request": "2.83.0"
   },
   "optionalDependencies": {},
   "dependencies": {
