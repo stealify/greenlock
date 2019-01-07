@@ -47,6 +47,6 @@
     "localhost.daplie.me-certificates": "^1.3.0",
     "node.extend": "^2.0.0",
     "pkijs": "^2.0.48",
-    "rsa-compat": "^1.2.1"
+    "rsa-compat": "^2.0.0"
   }
 }
